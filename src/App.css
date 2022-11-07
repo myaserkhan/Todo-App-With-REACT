@@ -56,7 +56,7 @@ body {
 
 .taskBg .iconsWrap span {
   display: inline-block;
-  margin: 0px 10px 0 10px;
+  margin: 0 10px 0 10px;
   cursor: pointer;
   color: #00ff89;
 }
